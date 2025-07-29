@@ -8,3 +8,13 @@ src - index(DB connect), APP (configuration, cookie, urlencode), Constants(enums
 4. Routes
 5. Middlewares
 6. Utils (repeated function)
+
+
+-----------------------------------
+Why we use nodemon?
+import - module express -  meaning 
+require - commonJs - means code get loaded synchronously.
+For the above two, we use "type" in package.JSON
+CORS error -  cross origin error
+
+
