@@ -16,5 +16,6 @@ import - module express -  meaning
 require - commonJs - means code get loaded synchronously.
 For the above two, we use "type" in package.JSON
 CORS error -  cross origin error
+Proxy is a solution for CORS error
 
 
