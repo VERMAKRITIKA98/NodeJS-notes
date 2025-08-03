@@ -8,5 +8,6 @@ you can find gitIgnore content from online site
 Dev dependency and dependency - dev dependency - use during development. Nodemon is a dev dependency. Prettier is also a dev dependecy for code formatting.
 * 1. Whenever we try to connect with Database always wrap the code in try/catch block
   2. Always use async await as Database can be anywhere it may take time to connect.
-
+Middleware - For middleware we use app.use() 
+Proxy Server - 
 
