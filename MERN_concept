@@ -1,2 +1,12 @@
 Helpers - Ex. Prisma, Mongoose (which help in storing the Data) bject modeling
 cloud code Environment (cloud IDE) - Example - CodeSandBox, Github CodeSpaces, StackBlitz
+In backend the main requirement is Data Modeling. Data modeling is defining the schema for Data that will store and retrieving of those Data.
+All Databases have different kind of syntax for writing Schema.
+
+GIT----- .gitKeep, .gitIgnore
+you can find gitIgnore content from online site 
+Dev dependency and dependency - dev dependency - use during development. Nodemon is a dev dependency. Prettier is also a dev dependecy for code formatting.
+* 1. Whenever we try to connect with Database always wrap the code in try/catch block
+  2. Always use async await as Database can be anywhere it may take time to connect.
+
+
