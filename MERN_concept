@@ -10,4 +10,12 @@ Dev dependency and dependency - dev dependency - use during development. Nodemon
   2. Always use async await as Database can be anywhere it may take time to connect.
 Middleware - For middleware we use app.use() 
 Proxy Server - 
+next in API is use for middleware.
+-------------------------------------------------
+Status Code of Server:
+Information responses - (100-199)
+Successful responses - (200-299)
+Redirection messages - (300-399)
+Client Error Responses - (400-499)
+Server Error Responses - (500-599)
 
