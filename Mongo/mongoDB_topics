@@ -1,1 +1,3 @@
-agregate-pagination in mongoDB
+agregate-pagination in mongoDB. We use it as plugin in code.
+mongoogse already have middleware but also you can use own pluggin.
+
