@@ -1,0 +1,8 @@
+Http is a communication protocol in internet.
+Http headers are metadata (key-value pair) sent along with request and response. Use for caching, authentication & manage state.
+Request Headers -  from client
+Response headers - from server
+Representation headers - encoding/compression (For graph chart)
+payload headers -  Data
+HTTP method - Put (replace a resource), Patch (Change part of a resource)
+HTTP Status code 
