@@ -9,7 +9,6 @@ src - index(DB connect), APP (configuration, cookie, urlencode), Constants(enums
 5. Middlewares
 6. Utils (repeated function)
 
-
 -----------------------------------
 Why we use nodemon?
 import - module express -  meaning 
@@ -24,4 +23,7 @@ controller
 routes
 Higher order function
 
-
+---------------------------------------------
+Difference between Access Token and Refresh token: (even though gmail is using thisa now a days)
+1. Expiry: Access token usually short lived and refresh token are long lived.
+Reason behnd these expiry : refresh token can generate the access token as well
